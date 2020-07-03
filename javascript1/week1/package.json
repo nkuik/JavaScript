@@ -1,0 +1,22 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "Week 1 JavaScript Exercises",
+  "main": "exercises.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackYourFuture-CPH/JavaScript.git"
+  },
+  "author": "HackYourFuture",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackYourFuture-CPH/JavaScript/issues"
+  },
+  "homepage": "https://github.com/HackYourFuture-CPH/JavaScript#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
