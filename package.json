@@ -1,8 +1,8 @@
 {
-  "name": "week1",
+  "name": "JavaScript",
   "version": "1.0.0",
-  "description": "Week 1 JavaScript Exercises",
-  "main": "exercises.js",
+  "description": "JavaScript Exercises",
+  "main": "javascript/week1/exercises.js",
   "scripts": {
     "test": "jest"
   },
